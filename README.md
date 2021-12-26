@@ -24,6 +24,7 @@ Optei pela utilização de componentes PTH neste projeto porque o processo de so
 | [LED amarelo](https://www.mouser.com/ProductDetail/941-C503BAANCY0B0251)  | 2  |   |
 | [Resistor de 100 ohms](https://www.mouser.com/ProductDetail/594-5043ED100R0F)  | 4  | Usados nos LEDs azuis e verdes  |
 | [Resistor de 150 ohms](https://www.mouser.com/ProductDetail/594-MBB02070C1500FRP)  | 4  | Usados nos LEDs amarelos e vermelhos  |
+| [Resistor de 1k ohms](https://www.mouser.com/ProductDetail/594-SFR2500001001JR5)  | 4  | Usados como pull-down nos botões  |
 | [Piezo Buzzer](https://www.mouser.com/ProductDetail/497-IE122303-1)  | 1  |   |
 | [Chave tátil](https://www.mouser.com/ProductDetail/506-1-1825910-4) | 3  |   |
 
