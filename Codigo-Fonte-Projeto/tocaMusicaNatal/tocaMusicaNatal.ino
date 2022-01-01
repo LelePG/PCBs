@@ -14,19 +14,19 @@
 
 
 //Pinos
-#define buzzer 5
+#define buzzer 10
 #define btn1 A0
 #define btn2 A1
-#define btn3 A2
+#define btn3 A3
 
-#define verde1 13
-#define amarelo1 12
-#define azul1 11
-#define vermelho1 10
+#define verde1 5
+#define amarelo1 6
+#define azul1 7
+#define vermelho1 8
 #define verde2 9
-#define amarelo2 8
-#define azul2 7
-#define vermelho2 6
+#define amarelo2 10
+#define azul2 14
+#define vermelho2 12
 
 
 //funções
