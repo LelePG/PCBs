@@ -1,12 +1,14 @@
 # PCB-natalina-2021
-![Imagem da placa](inserir link)
+![](Imagens/azul.png)
 
 ## O que é este projeto?
-Este projeto se trata de uma placa de circuito impresso (PCB) artística com o tema natalino desenvolvida para o **Julialabs PCB Challange 2021** utilizando o software Easy EDA.
+Este projeto se trata de uma placa de circuito impresso (PCB) artística com o tema natalino desenvolvida para o **Julialabs PCB Challange 2021** utilizando o software **Easy EDA**.
 
-A PCB em questão foi desenvolvida tendo em mente o projeto de uma caixinha de músicas natalinas utilizando arduino. O projeto contém um buzzer e LEDs que serão responsáveis pela reprodução de uma das três músicas disponíveis no programa que estará no microcontrolador.
+A PCB em questão foi desenvolvida tendo em mente o projeto de uma caixinha de músicas natalinas utilizando arduino. O projeto contém um buzzer e LEDs que serão responsáveis pela reprodução de uma das três músicas disponíveis no programa que estará no microcontrolador (deck the halls, silent night e jingle bells) .
 
 ## Como este projeto está estruturado?
+* Gerber_PCB natalina.zip: arquivos gerber do projeto;
+Project_PCB natalina.zip: arquivos de desenvolvimento do projeto;
 * Pasta Imagens: contém imagens do projeto, incluindo as referências de design da placa;
 * Pasta Codigo-Fonte-Projeto: contém os arquivos referentes ao desenvolvimento do código fonte para o arduino (protótipo das músicas no sonic pi e projeto para o arduino propriamente dito);
 
@@ -24,10 +26,9 @@ Optei pela utilização de componentes PTH neste projeto porque o processo de so
 | [LED amarelo](https://www.mouser.com/ProductDetail/941-C503BAANCY0B0251)  | 2  |   |
 | [Resistor de 100 ohms](https://www.mouser.com/ProductDetail/594-5043ED100R0F)  | 4  | Usados nos LEDs azuis e verdes  |
 | [Resistor de 150 ohms](https://www.mouser.com/ProductDetail/594-MBB02070C1500FRP)  | 4  | Usados nos LEDs amarelos e vermelhos  |
-| [Resistor de 1k ohms](https://www.mouser.com/ProductDetail/594-SFR2500001001JR5)  | 4  | Usados como pull-down nos botões  |
+| [Resistor de 1k ohms](https://www.mouser.com/ProductDetail/594-SFR2500001001JR5)  | 3  | Usados como pull-down nos botões  |
 | [Piezo Buzzer](https://www.mouser.com/ProductDetail/497-IE122303-1)  | 1  |   |
 | [Chave tátil](https://www.mouser.com/ProductDetail/506-1-1825910-4) | 3  |   |
-
 
 ## Veja como foi desenvolver este projeto
 Durante o desenvolvimento deste projeto, resolvi gravar vídeos curtos em cada dia do desenvolvimento do projeto como forma de documentá-lo. Isso rendeu alguns vídeos no formato de diário de projeto, que você pode conferir nos links abaixo:
