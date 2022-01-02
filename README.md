@@ -6,7 +6,7 @@ Este projeto se trata de uma placa de circuito impresso (PCB) artística com o t
 
 A PCB em questão foi desenvolvida tendo em mente o projeto de uma caixinha de músicas natalinas utilizando arduino. O projeto contém um buzzer e LEDs que serão responsáveis pela reprodução de uma das três músicas disponíveis no programa que estará no microcontrolador (deck the halls, silent night e jingle bells). Veja o protótipo na protoboard [clicando aqui](https://www.youtube.com/watch?v=AXDClGJUVFA&feature=youtu.be).
 
-O projeto também está disponível no compartilhamento da PCB way, e você pode acessá-lo por lá [clicando aqui](link).
+O projeto também está disponível no compartilhamento da PCB way, e você pode acessá-lo por lá [clicando aqui](https://www.pcbway.com/project/shareproject/Musical_Christmas_Reindeer_0cf8bc23.html).
 
 ## Como este projeto está estruturado?
 * Gerber_PCB natalina.zip: arquivos gerber do projeto;
