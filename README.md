@@ -10,7 +10,7 @@ O projeto também está disponível no compartilhamento da PCB way, e você pode
 
 ## Como este projeto está estruturado?
 * Gerber_PCB natalina.zip: arquivos gerber do projeto;
-Project_PCB natalina.zip: arquivos de desenvolvimento do projeto;
+* Project_PCB natalina.zip: arquivos de desenvolvimento do projeto;
 * Pasta Imagens: contém imagens do projeto, incluindo as referências de design da placa;
 * Pasta Codigo-Fonte-Projeto: contém os arquivos referentes ao desenvolvimento do código fonte para o arduino (protótipo das músicas no sonic pi e projeto para o arduino propriamente dito);
 
