@@ -4,7 +4,9 @@
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) artística com o tema natalino desenvolvida para o **Julialabs PCB Challange 2021** utilizando o software **Easy EDA**.
 
-A PCB em questão foi desenvolvida tendo em mente o projeto de uma caixinha de músicas natalinas utilizando arduino. O projeto contém um buzzer e LEDs que serão responsáveis pela reprodução de uma das três músicas disponíveis no programa que estará no microcontrolador (deck the halls, silent night e jingle bells) .
+A PCB em questão foi desenvolvida tendo em mente o projeto de uma caixinha de músicas natalinas utilizando arduino. O projeto contém um buzzer e LEDs que serão responsáveis pela reprodução de uma das três músicas disponíveis no programa que estará no microcontrolador (deck the halls, silent night e jingle bells). Veja o protótipo na protoboard [clicando aqui](https://www.youtube.com/watch?v=AXDClGJUVFA&feature=youtu.be).
+
+O projeto também está disponível no compartilhamento da PCB way, e você pode acessá-lo por lá [clicando aqui](link).
 
 ## Como este projeto está estruturado?
 * Gerber_PCB natalina.zip: arquivos gerber do projeto;
@@ -34,8 +36,8 @@ Optei pela utilização de componentes PTH neste projeto porque o processo de so
 Durante o desenvolvimento deste projeto, resolvi gravar vídeos curtos em cada dia do desenvolvimento do projeto como forma de documentá-lo. Isso rendeu alguns vídeos no formato de diário de projeto, que você pode conferir nos links abaixo:
 
 * [Dias 1-3](https://youtu.be/aiU9QIyTmJ4)
-* [Dias 4-]()
-* [Dias ...]()
+* [Dias 4-5](https://youtu.be/wraD2iyoPi4)
+* *Em breve* [Dias 6-7]()
 
 ## Links úteis
 * [COMO PROJETAR UMA PCB | Tutorial com o EasyEDA | On-line e Grátis!
