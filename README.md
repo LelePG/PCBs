@@ -1,5 +1,6 @@
 # PCB-natalina-2021
-![](Imagens/azul.png)
+<p align="center"><img src = "Imagens/3dEasyEda.gif" width = "350">
+<img src = "Imagens/azul.png" width = "290"></p>
 
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) artística com o tema natalino desenvolvida para o **Julialabs PCB Challange 2021** utilizando o software **Easy EDA**.
