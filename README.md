@@ -38,7 +38,7 @@ Durante o desenvolvimento deste projeto, resolvi gravar vídeos curtos em cada d
 
 * [Dias 1-3](https://youtu.be/aiU9QIyTmJ4)
 * [Dias 4-5](https://youtu.be/wraD2iyoPi4)
-* *Em breve* [Dias 6-7]()
+* [Dias 6-7](https://youtu.be/sfpr-fhB2XQ)
 
 ## Links úteis
 * [COMO PROJETAR UMA PCB | Tutorial com o EasyEDA | On-line e Grátis!
