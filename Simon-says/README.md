@@ -1,6 +1,6 @@
 # PCB Simon-Says (Gênio)
-<p align="center"><img src = "imagens/simonSaysGif.gif" width = "300"  alt = "Gif da placa em visualização 3d">
-<img src = "imagens/simonSaysTop.png" width = "300"  alt = "Visualização 2d do top da placa"></p>
+<p align="center"><img src = "imagens/simonSaysGif.gif" width = "425"  alt = "Gif da placa em visualização 3d">
+<img src = "imagens/simonSaysTop.png" width = "200"  alt = "Visualização 2d do top da placa"></p>
 
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) na forma de um shield para arduino uno para o jogo Gênio (ou simon says) onde uma sequência aleatória é gerada e o usuário deve repetir a sequência apertando os botões. O código pode ser acessado [clicando aqui](https://github.com/LelePG/Arduino/tree/master/Simon_says).
