@@ -1,6 +1,6 @@
 # Expansor de portas para ESP 8266
 <p align="center"><img src = "imagens/expansorEspGif.gif" width = "300"  alt = "Gif da placa em visualização 3d">
-<img src = "imagens/expansorEspTop.png" width = "300"  alt = "Visualização 2d do top da placa"></p>
+<img src = "imagens/expansorEspTop.png" width = "255"  alt = "Visualização 2d do top da placa"></p>
 
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) com o intuito de possibilitar conexões na placa ESP 8266 utilizando diferentes tipos de conectores que podem ser soldados na placa de acordo com a necessidade do usuário.
