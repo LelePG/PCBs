@@ -5,9 +5,7 @@
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) com o intuito de possibilitar conexões na placa arduino nano utilizando diferentes tipos de conectores que podem ser soldados na placa de acordo com a necessidade do usuário.
 
-O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way e no compartilhamento do próprio Easy EDA. 
-
-Para acessar o projeto na aba de compartilhamento da **PCB way [clique aqui](https://www.pcbway.com/project/shareproject/Arduino_Nano_connector_expander_d2c7722c.html)** e para acessar o projeto no compartilhamento do **Easy EDA [clique aqui](INSERIR LINK)**.
+O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way. Para acessá-lo, [clique aqui](https://www.pcbway.com/project/shareproject/Arduino_Nano_connector_expander_d2c7722c.html).
 
 ## Como este projeto está estruturado?
 * Gerber_PCB_expansora_nano.zip: arquivos gerber do projeto;
