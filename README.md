@@ -10,6 +10,34 @@ PCB Natalina 2021 - Desenvolvida para o Julialabs PCB Challange
 </a>
 </p>
 
+<p align="center">
+<a href = "./Expansora_portas_arduino_nano">
+PCB Expansora de portas para arduino nano
+<img src = "./Expansora_portas_arduino_nano/imagens/expansorNano.gif" alt = "Gif da placa em visualização 3d" width = "350">
+</a>
+</p>
+
+<p align="center">
+<a href = "./Expansora_portas_esp8266">
+PCB Expansora de portas para arduino nano
+<img src = "./Expansora_portas_esp8266/imagens/expansorNano.gif" alt = "Gif da placa em visualização 3d" width = "350">
+</a>
+</p>
+
+<p align="center">
+<a href = "./Simon-says">
+PCB Simon says (Gênio)
+<img src = "./Simon-says/imagens/simonSaysGif.gif" alt = "Gif da placa em visualização 3d" width = "350">
+</a>
+</p>
+
+<p align="center">
+<a href = "./super-tux-kart-joystick">
+PCB joystick
+<img src = "./super-tux-kart-joystick/imagens/joystickGif.gif" alt = "Gif da placa em visualização 3d" width = "350">
+</a>
+</p>
+
 ## Links úteis
 * [COMO PROJETAR UMA PCB | Tutorial com o EasyEDA | On-line e Grátis!
 ](https://www.youtube.com/watch?v=NPu2Eug7i08)
