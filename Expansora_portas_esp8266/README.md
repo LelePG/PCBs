@@ -7,7 +7,7 @@ Este projeto se trata de uma placa de circuito impresso (PCB) com o intuito de p
 
 O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way e no compartilhamento do próprio Easy EDA. 
 
-Para acessar o projeto na aba de compartilhamento da **PCB way [clique aqui](https://www.pcbway.com/project/shareproject/Arduino_Nano_connector_expander_d2c7722c.html)** e para acessar o projeto no compartilhamento do **Easy EDA [clique aqui](INSERIR LINK)**.
+Para acessar o projeto na aba de compartilhamento da **PCB way [clique aqui](https://www.pcbway.com/project/shareproject/Esp8266_connector_expander_c875dadc.html)** e para acessar o projeto no compartilhamento do **Easy EDA [clique aqui](INSERIR LINK)**.
 
 ## Como este projeto está estruturado?
 * Gerber_PCB_expansora_esp.zip: arquivos gerber do projeto;
