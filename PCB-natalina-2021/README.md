@@ -1,6 +1,6 @@
 # PCB-natalina-2021
-<p align="center"><img src = "Imagens/3dEasyEda.gif" width = "350">
-<img src = "Imagens/azul.png" width = "290"></p>
+<p align="center"><img src = "Imagens/3dEasyEda.gif" width = "350"  alt = "Gif da placa em visualização 3d">
+<img src = "Imagens/azul.png" width = "290"  alt = "Visualização 2d do top da placa"></p>
 
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) artística com o tema natalino desenvolvida para o **Julialabs PCB Challange 2021** utilizando o software **Easy EDA**.
@@ -40,11 +40,6 @@ Durante o desenvolvimento deste projeto, resolvi gravar vídeos curtos em cada d
 * [Dias 4-5](https://youtu.be/wraD2iyoPi4)
 * [Dias 6-7](https://youtu.be/sfpr-fhB2XQ)
 
-## Links úteis
-* [COMO PROJETAR UMA PCB | Tutorial com o EasyEDA | On-line e Grátis!
-](https://www.youtube.com/watch?v=NPu2Eug7i08)
-* [EasyEDA- CURSO BÁSICO
-](https://www.youtube.com/watch?v=AR67V7zka60)
 
 
  
