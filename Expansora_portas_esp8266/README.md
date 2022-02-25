@@ -5,7 +5,7 @@
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) com o intuito de possibilitar conexões na placa ESP 8266 utilizando diferentes tipos de conectores que podem ser soldados na placa de acordo com a necessidade do usuário.
 
-O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way. Para acessá-lo, [clique aqui] (https://www.pcbway.com/project/shareproject/Esp8266_connector_expander_c875dadc.html).
+O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way. Para acessá-lo, [clique aqui](https://www.pcbway.com/project/shareproject/Esp8266_connector_expander_c875dadc.html).
 
 ## Como este projeto está estruturado?
 * Gerber_PCB_expansora_esp.zip: arquivos gerber do projeto;

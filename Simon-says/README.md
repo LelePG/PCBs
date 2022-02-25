@@ -5,7 +5,7 @@
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) na forma de um shield para arduino uno para o jogo Gênio (ou simon says) onde uma sequência aleatória é gerada e o usuário deve repetir a sequência apertando os botões. O código pode ser acessado [clicando aqui](https://github.com/LelePG/Arduino/tree/master/Simon_says).
 
-O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way. Para acessá-lo, [clique aqui] (https://www.pcbway.com/project/shareproject/Simon_Says_Arduino_Uno_Shield_13ca4bec.html).
+O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way. Para acessá-lo, [clique aqui](https://www.pcbway.com/project/shareproject/Simon_Says_Arduino_Uno_Shield_13ca4bec.html).
 
 ## Como este projeto está estruturado?
 * Gerber_PCB_Simon-says.zip: arquivos gerber do projeto;

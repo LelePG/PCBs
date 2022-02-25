@@ -7,7 +7,7 @@ Este projeto se trata de uma placa de circuito impresso (PCB) na forma de um shi
 
 [Clique aqui para ver o projeto original](https://github.com/LelePG/simple-arduino-joystick).
 
-O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way. Para acessá-lo, [clique aqui] (https://www.pcbway.com/project/shareproject/Super_tux_kart_joystick_88975a4b.html).
+O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way. Para acessá-lo, [clique aqui](https://www.pcbway.com/project/shareproject/Super_tux_kart_joystick_88975a4b.html).
 
 ## Como este projeto está estruturado?
 * Gerber_PCB_Joystick.zip: arquivos gerber do projeto;
