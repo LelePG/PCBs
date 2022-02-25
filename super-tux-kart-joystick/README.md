@@ -1,6 +1,6 @@
 # Super Tux Kart Joystick
-<p align="center"><img src = "imagens/joystickGif.gif" width = "300"  alt = "Gif da placa em visualização 3d">
-<img src = "imagens/joystickTop.png" width = "300"  alt = "Visualização 2d do top da placa"></p>
+<p align="center"><img src = "imagens/joystickGif.gif" width = "350"  alt = "Gif da placa em visualização 3d">
+<img src = "imagens/joystickTop.png" width = "200"  alt = "Visualização 2d do top da placa"></p>
 
 ## O que é este projeto?
 Este projeto se trata de uma placa de circuito impresso (PCB) na forma de um shield para arduino leonardo que tem o intuito de melhorar o projeto de um joystick desenvolvido anteriormente para jogar o jogo Super Tux Kart.
