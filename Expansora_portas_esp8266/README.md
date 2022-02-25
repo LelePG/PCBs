@@ -7,7 +7,7 @@ Este projeto se trata de uma placa de circuito impresso (PCB) com o intuito de p
 
 O projeto foi desenvolvido com o software **Easy EDA** e está disponível no compartilhamento da PCB way e no compartilhamento do próprio Easy EDA. 
 
-Para acessar o projeto na aba de compartilhamento da **PCB way [clique aqui](INSERIR LINK)** e para acessar o projeto no compartilhamento do **Easy EDA [clique aqui](INSERIR LINK)**.
+Para acessar o projeto na aba de compartilhamento da **PCB way [clique aqui](https://www.pcbway.com/project/shareproject/Arduino_Nano_connector_expander_d2c7722c.html)** e para acessar o projeto no compartilhamento do **Easy EDA [clique aqui](INSERIR LINK)**.
 
 ## Como este projeto está estruturado?
 * Gerber_PCB_expansora_esp.zip: arquivos gerber do projeto;
@@ -22,7 +22,7 @@ Optei pela utilização de componentes PTH neste projeto porque o processo de so
 |Componente|Quantidade|Observação|
 |:----------:|:----------:|:----------:|
 | [ESP8266](https://br.mouser.com/ProductDetail/485-3213)  | 1  | Micontrolador utilizado na placa  |
-| [Barra de 16 pinos machos](https://br.mouser.com/ProductDetail/855-M20-9731646)  |  2 | Uma barra deve ser colocada em cada lado da placa, mas de acordo com a necessidade do usuário este número pode ser modificado |
+| [Barra de 16 pinos machos](https://br.mouser.com/ProductDetail/855-M20-9731646)  |  4 | Uma barra deve ser colocada em cada lado da placa e duas barras serão usadas pra conectar o microcontrolador, mas de acordo com a necessidade do usuário este número pode ser modificado |
 | [Barra de 16 pinos fêmeas](https://br.mouser.com/ProductDetail/855-M22-7131642)| 2 | Uma barra deve ser colocada em cada lado da placa, mas de acordo com a necessidade do usuário este número pode ser modificado  |   |
 
 
