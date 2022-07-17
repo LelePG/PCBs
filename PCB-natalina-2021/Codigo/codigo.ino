@@ -19,14 +19,14 @@
 #define btn2 A1
 #define btn3 A3
 
-#define verde1 5
-#define amarelo1 6
-#define azul1 7
-#define vermelho1 8
-#define verde2 9
-#define amarelo2 10
-#define azul2 14
-#define vermelho2 12
+#define verde1 2
+#define amarelo1 3
+#define azul1 4
+#define vermelho1 5
+#define verde2 6
+#define amarelo2 7
+#define azul2 9
+#define vermelho2 11
 
 
 //funções
@@ -56,7 +56,7 @@ void setup() {
   pinMode(buzzer, OUTPUT);
 
 
-       acendeLEDs(0,0,0,0,0,0,0,0);
+  acendeLEDs(0,0,0,0,0,0,0,0);
 
 }
 

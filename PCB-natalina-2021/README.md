@@ -13,7 +13,8 @@ O projeto também está disponível no compartilhamento da PCB way, e você pode
 * Gerber_PCB natalina.zip: arquivos gerber do projeto;
 * Project_PCB natalina.zip: arquivos de desenvolvimento do projeto;
 * Pasta Imagens: contém imagens do projeto, incluindo as referências de design da placa;
-* Pasta Codigo-Fonte-Projeto: contém os arquivos referentes ao desenvolvimento do código fonte para o arduino (protótipo das músicas no sonic pi e projeto para o arduino propriamente dito);
+* Pasta Codigo: contém os arquivos referentes ao desenvolvimento do código fonte para o arduino;
+* Pasta Musicas: Protótipo das músicas no sonic pi e projeto para o arduino propriamente dito;
 
 ## Componentes necessários para o projeto
 A lista de componentes detalhada deste projeto pode ser encontrada na Mouser na forma de um carrinho de compras [clicando aqui.](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d268b8d18b)
